@@ -7,10 +7,10 @@ const About = () => (
     <div style={styles.container}>
       <img src={hritikImage} alt="Hritik Arora" style={styles.image} />
       <p style={styles.text}>
-        Adaptable and determined software engineer proficient in designing and integrating solutions
-        with intuitive problem-solving skills. Strong in Python and JavaScript, with a passion for
-        implementing and launching new projects. Skilled in converting business requirements into
-        technical solutions. I am currently working at Wipro Technologies as a Project Engineer.
+        Full-stack software engineer with strong proficiency in Python and JavaScript.
+Experienced in developing scalable web applications using the MERN stack and Django.
+Adept at solving complex problems, collaborating across teams, and translating business
+needs into technical solutions.
       </p>
     </div>
   </section>
