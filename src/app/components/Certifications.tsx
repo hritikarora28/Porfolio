@@ -15,9 +15,9 @@ const certifications = [
     gradient: 'from-purple-500 to-pink-500',
   },
   {
-    title: 'Web Application Technologies and Django',
-    issuer: 'Coursera',
-    credentialUrl: 'http://coursera.org/verify/CMB2K6HGLC5F',
+    title: 'AWS Certified Cloud Practitioner',
+    issuer: 'AWS',
+    credentialUrl: 'https://www.credly.com/badges/0b34a4c0-d592-4c1c-bdbd-8b35ec020dc6/linked_in_profile',
     gradient: 'from-green-500 to-emerald-500',
   },
   {
